@@ -32,6 +32,7 @@ This project demonstrates the development of a **Humidity & Temperature Monitori
 - STM32CubeIDE for programming the STM32 microcontroller.
 - J-Link debugger for uploading and debugging code.
 - Basic knowledge of STM32 GPIO and I2C communication.
+- Using STM32duino Bootloader Method (A way to use Arduino IDE to directly upload code to STM32 via USB port)
 
 ### Pin Assignments
 <img width="711" alt="image" src="https://github.com/user-attachments/assets/4b0ebdc4-7029-4d67-a470-4dbbd28e6263" />
